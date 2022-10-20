@@ -1,0 +1,12 @@
+h3{
+    background-color: aqua;
+}
+.lorem{
+    border: 2px solid black;
+    margin-top: 25px;
+    margin-left: 30px;
+    margin-bottom: 25px;
+    margin-right: 25px;
+
+    padding: 25px;
+}
